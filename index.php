@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="de-DE" id="mozilla-de">
 <head>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
     <meta charset="utf-8" />
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,14 +14,14 @@
 </head>
 <body id="<?=($site == '') ? 'home' : $site ?>">
 <div id="back">
-<!-- <a href="http://www.mozilla.org/" id="tabzilla">mozilla</a> -->
+<!-- <a href="https://www.mozilla.org/" id="tabzilla">mozilla</a> -->
 <a href="/" id="tabzilla">mozilla</a>
 <div id="wrapper">
     <nav id="headerbar" class="clearfix">
         <ul>
-            <li><a href="http://www.mozilla.com/de/firefox/">Firefox</a></li>
-            <li><a href="http://www.thunderbird-mail.de/">Thunderbird</a></li>
-            <li><a href="http://www.mozilla.org">mozilla.org</a></li>
+            <li><a href="https://www.mozilla.com/de/firefox/">Firefox</a></li>
+            <li><a href="https://www.thunderbird-mail.de/">Thunderbird</a></li>
+            <li><a href="https://www.mozilla.org">mozilla.org</a></li>
         </ul>
     </nav>
 		<div style="text-align: center;">
@@ -98,13 +98,13 @@ function textVeraendern(){var string = $('#sachen > .string');if(string.next().l
     <script type="text/javascript" src="/tabzilla.js"></script>
         <!--[if lte IE 8]>
         <script src="/js/html5.js" type="text/javascript"></script>
-        <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+        <script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
     <![endif]-->
     <!--[if lt IE 7]>
-<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script>
+<script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script>
 <![endif]-->
 <!--[if lt IE 9]>
-<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
 <![endif]-->
 <!-- Ende -->
 </body>

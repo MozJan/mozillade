@@ -8,12 +8,12 @@
 		1 => array( 
 			'name' => 'Firefox-Chat', 
 			'btnlabel' => 'Betreten',
-			'url' => 'http://widget00.mibbit.com/?settings=ac94eecf36f16bd1854e7a27ad5d6562&amp;server=irc.mozilla.org&amp;channel=%23firefox.de&amp;customprompt=Firefox-Chat%20betreten&amp;nick=',
+			'url' => 'https://widget00.mibbit.com/?settings=ac94eecf36f16bd1854e7a27ad5d6562&amp;server=irc.mozilla.org&amp;channel=%23firefox.de&amp;customprompt=Firefox-Chat%20betreten&amp;nick=',
 			'logo' => 'irc'),
 		2 => array(
 			'name' => 'Thunderbird',
 			'btnlabel' => 'Forum',
-			'url' => 'http://www.thunderbird-mail.de/forum/',
+			'url' => 'https://www.thunderbird-mail.de/forum/',
 			'logo' => 'thunderbird'),
 		3 => array( 
 			'name' => 'Thunderbird-Chat', 
@@ -23,12 +23,12 @@
 		4 => array( 
 			'name' => 'SeaMonkey', 
 			'btnlabel' => 'Hilfe',
-			'url' => 'http://seamonkey.at/support.html',
+			'url' => 'https://seamonkey.at/support.html',
 			'logo' => 'seamonkey'),
 		5 => array(
 			'name' => 'Lightning',
 			'btnlabel' => 'Forum', 
-			'url' => 'http://www.thunderbird-mail.de/forum/viewforum.php?f=46',
+			'url' => 'https://www.thunderbird-mail.de/forum/viewforum.php?f=46',
 			'logo' => 'lightning'),
 		6 => array(
 			'name' => 'KompoZer',
@@ -38,7 +38,7 @@
 		7 => array(
 			'name' => 'Entwickler',
 			'btnlabel' => 'MDN',
-			'url' => 'http://developer.mozilla.org/de/',
+			'url' => 'https://developer.mozilla.org/de/',
 			'logo' => 'mdn'),
 	);
 ?>
