@@ -9,7 +9,7 @@ body {min-width:1024px; border-top: 2px solid #fff;}
 
 #back {min-width:1024px; position:absolute; min-height:100%; width:100%; z-index:-1; background: url('http://localhost/bg-sand.png') repeat-x top center rgb(245,241,232);}
 /*
-#back {min-width:1024px; position:absolute; min-height:100%; width:100%; z-index:-1; background: url('http://www.mozilla.org/media/img/sandstone/bg-sand.png') repeat-x top center rgb(245,241,232);}
+#back {min-width:1024px; position:absolute; min-height:100%; width:100%; z-index:-1; background: url('https://www.mozilla.org/media/img/sandstone/bg-sand.png') repeat-x top center rgb(245,241,232);}
  */
 @font-face {
 	font-family: "OpenSans";
