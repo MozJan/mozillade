@@ -20,7 +20,7 @@
 					'name' => 'Thunderbird',
 					'desc' => 'Die deutsche Thunderbird-Community verfügt über ein exzellentes Forum und eine ebenso gelungene Dokumentation. 
 				Beides beruht vollständig auf der Arbeit von Freiwilligen, lebt also vom Feedback und der Mitarbeit von interessierten Thunderbird-Anwendern.
-				Das Team freut sich daher über jeden Beitrag, der <a href="http://www.thunderbird-mail.de/forum/">ins Forum</a> gestellt wird.',
+				Das Team freut sich daher über jeden Beitrag, der <a href="https://www.thunderbird-mail.de/forum/">ins Forum</a> gestellt wird.',
 					'url' => 'https://www.thunderbird-mail.de'),
 				2 => array(
 					'name' => 'SeaMonkey',
@@ -33,20 +33,20 @@
 					'name' => 'Lightning',
 					'desc' => 'Das <a href="http://www.sunbird-kalender.de/index.php">deutsche Übersetzungsprojekt von Lightning</a> freut sich immer über Hilfe!
 				Ob Mitarbeit im Forum, Vorschläge zur Übersetzung, Aktualisierung der FAQ oder Vorantreiben der Dokumentationsbemühungen - wir bieten viele Chancen zur Beteiligung.
-				Interesse? Jeder ist eingeladen, <a href="http://www.thunderbird-mail.de/forum/viewforum.php?f=46">im Forum</a> mitzuhelfen, Lightning für deutschsprachige Nutzer
+				Interesse? Jeder ist eingeladen, <a href="https://www.thunderbird-mail.de/forum/viewforum.php?f=46">im Forum</a> mitzuhelfen, Lightning für deutschsprachige Nutzer
 				noch besser zu machen!',
 					'url' => 'http://www.sunbird-kalender.de/index.php'),
 				4 => array(
 					'name' => 'SUMO',
 					'desc' => 'SUMO ist die Abkürzung von <a href="https://support.mozilla.org/de/home">SUpport.MOzilla.org</a>. Die Aufgabe des SUMO-Projekts ist es, Firefox-Nutzern bei Problemen
  					und Fragen weiterzuhelfen. Es werden besonders Übersetzer benötigt, die die Wissensdatenbank übersetzen und vorhandene Inhalte aktuell halten möchten.
-				  	Der aktuelle Stand kann in der <a href="http://support.mozilla.com/de/localization">Übersetzungsübersicht</a> eingesehen werden.',
+				  	Der aktuelle Stand kann in der <a href="https://support.mozilla.com/de/localization">Übersetzungsübersicht</a> eingesehen werden.',
 					'url' => 'https://support.mozilla.com/de/'),
 				5 => array(
 					'name' => 'MDN',
 					'desc' => 'Das <a href="https://developer.mozilla.org/de/">Mozilla Developer Network</a> unterstützt die Entwicklung von Firefox und dem Web mit reichhaltiger, 
 					sorgfältiger und aktueller Dokumentation über Firefox, Mozilla und vielen Webtechnologien. Das Wiki ermöglicht es jedem, dabei zu helfen, die Seiten aktuell zu halten und ins Deutsche zu übersetzen.',
-					'url' => 'http://developer.mozilla.org/de/'),
+					'url' => 'https://developer.mozilla.org/de/'),
 				6 => array(
 					'name' => 'BabelZilla',
 					'desc' => '<a href="http://www.babelzilla.org/">BabelZilla</a> versteht sich als Schnittstelle zwischen Entwicklern und Übersetzern von Erweiterungen für Anwendungen aus der Mozilla-Familie.
