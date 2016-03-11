@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="de-DE" id="mozilla-de">
 <head>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
     <meta charset="utf-8" />
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -31,31 +31,31 @@
     <header>
     	    <nav id="navigation">
                 <ul>
-<?php 
+<?php
 
-	$links = array( 
-		0 => array( 
+	$links = array(
+		0 => array(
 			'href' => '/',
-			'id' => '/', 
+			'id' => '/',
 			'title' => 'Zur Startseite wechseln',
-			'text' => 'Start'),	
-		1 => array( 
+			'text' => 'Start'),
+		1 => array(
 			'href' => '../hilfe/',
-			'id' => 'hilfe', 
+			'id' => 'hilfe',
 			'title' => 'Haben Sie Probleme mit Firefox & Co.? Wir helfen Ihnen weiter!',
 			'text' => 'Hilfe'),
-		2 => array( 
-			'href' => '../mitmachen/', 
+		2 => array(
+			'href' => '../mitmachen/',
 			'id' => 'mitmachen',
 			'title' => 'Möglichkeiten, bei Mozilla mitzumachen',
-			'text' => 'Mitmachen!'),	
-		3 => array( 
-			'href' => '../kalender/', 
+			'text' => 'Mitmachen!'),
+		3 => array(
+			'href' => '../kalender/',
 			'id' => 'kalender',
 			'title' => 'Community-Kalender',
-			'text' => 'Events'),		
-		4 => array( 
-			'href' => '../ueber/', 
+			'text' => 'Events'),
+		4 => array(
+			'href' => '../ueber/',
 			'id' => 'ueber',
 			'title' => 'Mehr über Mozilla im deutschsprachigen Raum erfahren',
 			'text' => 'Über uns')
@@ -77,8 +77,8 @@
                 </ul>
             </nav>
     </header>
-    
-<div id="content-wrapper" class="clearfix"> 
+
+<div id="content-wrapper" class="clearfix">
     <?php require_once("inc/contents.php"); ?>
     <?php require_once("inc/planet_section.php"); ?>
 </div>
